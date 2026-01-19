@@ -1,0 +1,7 @@
+1. create an Virtual Environment..
+  -> python -m venv myenv
+  ->venv\scripts\activate
+
+2. create a template.py file.. 
+3. pip install -r requirements.txt.. 
+  -> list
