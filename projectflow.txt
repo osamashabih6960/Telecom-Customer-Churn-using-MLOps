@@ -1,7 +1,18 @@
 1. create an Virtual Environment..
   -> python -m venv myenv
-  ->venv\scripts\activate
+  ->myvenv\scripts\activate
 
 2. create a template.py file.. 
 3. pip install -r requirements.txt.. 
   -> list
+
+4.Install Jupyter from VS Code terminal
+  ->pip install jupyter notebook
+  -> jupyter --version
+  ->python -m ipykernel install --user --name jupyter_env --display-name "Python (jupyter_env)"
+
+5. create a foldet NoteBook:-
+   -> telecom-customer-churn-eda.ipynb 
+   -
+
+
